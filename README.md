@@ -4,6 +4,7 @@
 
 data/
 - reddit_edges.json
+- não consegui dar commit do arquivo
 
 src/
 - 01_dataset_statistics.py

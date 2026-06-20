@@ -1,0 +1,3 @@
+Densidade média: 0.11812867840428473
+Densidade mínima: 0.020833333333333332
+Densidade máxima: 0.38181818181818183

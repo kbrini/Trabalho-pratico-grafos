@@ -1,0 +1,7 @@
+BFS
+Visitados: 97
+Tempo: 0.0008625000009487849
+
+DFS
+Visitados: 97
+Tempo: 0.000459100001535262

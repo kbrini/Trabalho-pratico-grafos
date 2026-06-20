@@ -1,0 +1,9 @@
+Prim
+Arestas: 96
+Peso: 96
+Tempo: 0.0008998000012070406
+
+Kruskal
+Arestas: 96
+Peso: 96
+Tempo: 0.0006245000004128087

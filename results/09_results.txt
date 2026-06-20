@@ -1,0 +1,2 @@
+Vertices de grau impar: 70
+Nao Euleriano

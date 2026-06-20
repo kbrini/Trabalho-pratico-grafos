@@ -1,0 +1,22 @@
+=== FALHA ALEATORIA ===
+Maior componente
+Media: 87.68
+Desvio: 7.275822977505707
+
+Numero de componentes
+Media: 3.58
+Desvio: 2.5305335405799307
+
+Distancia media
+Media: 6.2322516535153945
+Desvio: 0.614348762463722
+
+Fracao isolados
+Media: 0.02043010752688172
+Desvio: 0.02491748435754079
+
+=== ATAQUE DIRECIONADO ===
+Maior componente: 53
+Numero componentes: 12
+Distancia media: 6.30188679245283
+Fracao isolados: 0.10752688172043011

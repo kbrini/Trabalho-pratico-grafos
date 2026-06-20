@@ -1,0 +1,4 @@
+Tempo: 0.06483429999934742
+Menor distancia: 1.0
+Maior distancia: 15.0
+Media: 6.01696735395189

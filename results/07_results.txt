@@ -1,0 +1,10 @@
+Vertices: 97
+Arestas: 109
+Componentes: 1
+Maior componente: 97
+Diametro: 15
+Raio: 8
+Distancia media: 6.01696735395189
+Clusterizacao media: 0.017329405989199805
+Maior grau: 11
+Vertice: 13

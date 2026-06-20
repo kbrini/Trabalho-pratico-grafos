@@ -1,0 +1,2 @@
+Triangulos: 2
+Grau minimo: 1
